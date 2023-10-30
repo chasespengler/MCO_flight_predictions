@@ -13,4 +13,4 @@ NOTE: This is now deprecated. Please refer to the following Folder for updated T
 
 #### UpdatedTFTrees
 
-This is the most up do date prediction model using supported TensorFlow modules.
+This is the most up to date prediction model using supported TensorFlow modules. This contains models built using the GradientBoostedTreesModel.
